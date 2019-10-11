@@ -5,5 +5,7 @@ This is a Change++ project to develop solutions to teach high schoolers about Cl
 
 ## About the Team
 
+Ethan Shifrin, Sophomore computer scientist from Chicago
+
 
 ## Find out more
